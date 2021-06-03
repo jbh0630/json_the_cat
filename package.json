@@ -21,6 +21,8 @@
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "eslint": "^7.27.0"
+    "chai": "^4.3.4",
+    "eslint": "^7.27.0",
+    "mocha": "^8.4.0"
   }
 }
